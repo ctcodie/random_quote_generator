@@ -1,0 +1,36 @@
+.coloring{
+	background-color:#c51e62;
+	color:#474747;
+}
+
+
+.midbox{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	margin-top:15%;
+}
+
+.quotebox{
+	background-color:white;
+	border-radius:15px;
+	min-height:175px;
+}
+
+p{
+	
+	margin: 10px 25px 10px 25px;
+}
+
+
+.pushit{
+	margin:15px;
+	border-radius:10px;
+	color:grey;
+}
+
+.footer{
+	text-align:center;
+}
+
+
